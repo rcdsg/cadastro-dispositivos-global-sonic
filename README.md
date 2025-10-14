@@ -3,7 +3,7 @@ Aplicação para Cadastro de Dispositivos com Vue Js 3, a aplicação se destaca
 
 # 1. Como rodar (passo a passo)
 1.1 Banco de Dados:
-O Banco de dados feito em sql, segue nessa pasta do projeto, desenvolvido localmente em PhpMyAdmin com a tabela: devices_db.
+O Banco de dados feito em sql, segue na pasta do projeto (dentro de app-device), desenvolvido localmente em PhpMyAdmin com a tabela: devices_db.
 
 # 2. Backend
 2.1 Vá para a pasta backend e digite no terminal o comando: npm install.
